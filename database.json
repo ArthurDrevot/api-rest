@@ -1,9 +1,11 @@
 {
   "dev": {
-    "driver": "mysql",
-    "user": "root",
-    "database": "tutorial",
-	"password": "ymrNDzMj6sJjWfKF"
+    "username": "aooofjnpmianes",
+    "password": "lJLJ2a_gP3QdcMuzoU5ENIIWGX",
+    "database": "d4til9g98g4mkk",
+    "host": "ec2-54-247-185-241.eu-west-1.compute.amazonaws.com",
+    "port": "5432",
+    "dialect": "postgres"
   },
  
   "production": {
